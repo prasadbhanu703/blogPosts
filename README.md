@@ -1,6 +1,8 @@
 # blogposts
 
->>> First of all you have to do "npm install" and you can run it on node/srcindex.js
+           >>>    What are to be installed and how to run <<<
+
+>>> First of all you have to do "npm install" and you can run it on node/src/index.js
 
 >>> I have created a mongodb database with installing "npm install mongoose" and setting dbPath to that data.
 
